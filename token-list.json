@@ -9,11 +9,19 @@
   "tokens": [
     {
       "chainId": 72071029423,
+      "address": "0xfbb2bFD425467FFd04278F84Aa7e4691ac2Dc37d",
+      "name": "ALIENX Wrapper",
+      "symbol": "WALIENX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    },
+    {
+      "chainId": 72071029423,
       "address": "0x224341e55897fc2DFf983459c2dFf4b90C004E5E",
       "name": "Dio Token",
       "symbol": "DIO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_SAI.svg"
     },
     {
       "chainId": 72071029423,
@@ -27,6 +35,6 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
