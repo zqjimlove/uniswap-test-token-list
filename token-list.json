@@ -1,0 +1,32 @@
+{
+  "name": "AX",
+  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+  "keywords": [
+    "compound",
+    "defi"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 72071029423,
+      "address": "0x143CAA833B892e905e369707c3eE2B3875226a36",
+      "name": "Dio Token",
+      "symbol": "DIO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    },
+    {
+      "chainId": 72071029423,
+      "address": "0x46D464499f66143ae9dCd939d0184EdEA1a919a3",
+      "name": "Avalon Coin",
+      "symbol": "AVALON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
