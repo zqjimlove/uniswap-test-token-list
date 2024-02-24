@@ -30,7 +30,12 @@
       "symbol": "AVALON",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
-    }
+    },
+    {"chainId":72071029423,"address":"0xcf5132fcddcc9abb3ee6dd881268d74134672a16","name":"Jackson Token","symbol":"JSON","decimals":18,"logoURI":"https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"},
+    {"chainId":72071029423,"address":"0x5b4e41b5edc6a0304ac4a380772c0547cd9bfda6","name":"YM Token","symbol":"YM","decimals":18,"logoURI":"https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"},
+    {"chainId":72071029423,"address":"0xcba377551a350b03b5b922db17915b77d33ed682","name":"MSAT Token","symbol":"MSAT","decimals":18,"logoURI":"https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"},
+    {"chainId":72071029423,"address":"0xd3221a2e799c7f9f0f0f0dbbf7235343f30a5879","name":"USDT Token","symbol":"USDT","decimals":18,"logoURI":"https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"}
+
   ],
   "version": {
     "major": 2,
