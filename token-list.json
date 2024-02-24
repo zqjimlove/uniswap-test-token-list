@@ -9,7 +9,7 @@
   "tokens": [
     {
       "chainId": 72071029423,
-      "address": "0x143CAA833B892e905e369707c3eE2B3875226a36",
+      "address": "0x224341e55897fc2DFf983459c2dFf4b90C004E5E",
       "name": "Dio Token",
       "symbol": "DIO",
       "decimals": 18,
@@ -17,7 +17,7 @@
     },
     {
       "chainId": 72071029423,
-      "address": "0x46D464499f66143ae9dCd939d0184EdEA1a919a3",
+      "address": "0x987bc37B3D8c382e5Fe0bA55B02F8548671f758A",
       "name": "Avalon Coin",
       "symbol": "AVALON",
       "decimals": 18,
@@ -27,6 +27,6 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
